@@ -9,7 +9,7 @@ The code of every SC is verified on the goerliscan and it matches with the flatt
 
 #### SimpleToken contract: [0x13449a12efe5a596e5429234cf302b861b95723c](https://goerli.etherscan.io/address/0x13449a12efe5a596e5429234cf302b861b95723c)
 
-Instantinated with "SimpleToken", "ST"
+Instantinated with "SimpleToken", "ST" passed into the constructor
 
 #### ContractsHaterToken contract: [0x2fdb5F3cd7ef21Cd252fDeE8bE91DA7129209322](https://goerli.etherscan.io/address/0x2fdb5f3cd7ef21cd252fdee8be91da7129209322)
 
