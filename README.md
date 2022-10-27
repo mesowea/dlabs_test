@@ -1,7 +1,7 @@
 # DLab Test Task
 2 files for each contract: the general version and the flattened one (with all imported libraries included in the code)
 
-## Address used for deployment: [0x5fd0c3c8b84e914f34231dfb1eda39ef19bbb98c](https://goerli.etherscan.io/address/0x5fd0c3c8b84e914f34231dfb1eda39ef19bbb98c)
+#### Address used for deployment: [0x5fd0c3c8b84e914f34231dfb1eda39ef19bbb98c](https://goerli.etherscan.io/address/0x5fd0c3c8b84e914f34231dfb1eda39ef19bbb98c)
 
 ## SimpleToken contract: [0x13449a12efe5a596e5429234cf302b861b95723c](https://goerli.etherscan.io/address/0x13449a12efe5a596e5429234cf302b861b95723c)
 
