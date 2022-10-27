@@ -1,4 +1,6 @@
 # DLab Test Task
+I used the remix ide as the simpliest one for development and deployment. My contracts' calls and calling the "Validate" function was done via the web interface of the goerliscan as it allows easy encoding the arguments and calling the read/write functions with the browser injected wallet (Metamask in my case)
+
 2 files for each contract: the general version and the flattened one (with all imported libraries included in the code)
 
 The code of every SC is verified on the goerliscan and it matches with the flattened versions of the code published in this repository
