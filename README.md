@@ -1,4 +1,4 @@
-# dlab_test
+# DLab Test Task
 2 files for each contract: the general version and the flattened one (with all imported libraries included in the code)
 
 Libraries used: OpenZeppelin Ownable.sol & ERC20.sol
