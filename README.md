@@ -3,7 +3,9 @@
 
 Libraries used: OpenZeppelin Ownable.sol & ERC20.sol
 
-Implemented the contract with the functions used to check whether the address is EOA or not (by checking the size of the code at a given address) and to add/remove the contract from the whitelist
+    ⚠️ There are no overflow checks because in the Solidity compiler 0.8.0 or better, math overflows revert by default. We use 0.8.9 so everything should be OK. OpenZeppelin libraries sometimes use the unchecked addition and subtraction where it is safe in order to use less gas during the execution. 
+
+    Implemented the contract with the functions used to check whether the address is EOA or not (by checking the size of the code at a given address) and to add/remove the contract from the whitelist
 ```bash
 abstract contract CheckEOA is Ownable {
     mapping (address => bool) public isWhiteListedContract;
