@@ -8,6 +8,7 @@ ContractsHaterToken contract: [0x2fdb5F3cd7ef21Cd252fDeE8bE91DA7129209322](https
 The ownership over the contracts is transferred to the [validator contract](https://goerli.etherscan.io/address/0x4b2713aae6e378156ee3449c2eae7ed5b5ea78c2)
 
 [My successfully confrmed TX](https://goerli.etherscan.io/tx/0x54bd7d275c98d72b538870af30b8890903fe7c68f293ea31a24bacbce4b47bda)
+
 [⚠️ My unsuccessful TX](https://goerli.etherscan.io/tx/0x77b03e2d45baa52fd63c82dfb30826b47b56db63151bbf7e2e26e0aa028044d3) (missed the correct names of some functions (addToWhitelist(), removeFromWhitelist()) I used different names. + there was a mistake of transferring 1 token to the treasury insted 10)
 
 Libraries used: OpenZeppelin Ownable.sol & ERC20.sol
