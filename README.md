@@ -1,19 +1,19 @@
 # DLab Test Task
 2 files for each contract: the general version and the flattened one (with all imported libraries included in the code)
 
-##Address used for deployment: [0x5fd0c3c8b84e914f34231dfb1eda39ef19bbb98c](https://goerli.etherscan.io/address/0x5fd0c3c8b84e914f34231dfb1eda39ef19bbb98c)
+## Address used for deployment: [0x5fd0c3c8b84e914f34231dfb1eda39ef19bbb98c](https://goerli.etherscan.io/address/0x5fd0c3c8b84e914f34231dfb1eda39ef19bbb98c)
 
-##SimpleToken contract: [0x13449a12efe5a596e5429234cf302b861b95723c](https://goerli.etherscan.io/address/0x13449a12efe5a596e5429234cf302b861b95723c)
+## SimpleToken contract: [0x13449a12efe5a596e5429234cf302b861b95723c](https://goerli.etherscan.io/address/0x13449a12efe5a596e5429234cf302b861b95723c)
 
-##ContractsHaterToken contract: [0x2fdb5F3cd7ef21Cd252fDeE8bE91DA7129209322](https://goerli.etherscan.io/address/0x2fdb5f3cd7ef21cd252fdee8be91da7129209322)
+## ContractsHaterToken contract: [0x2fdb5F3cd7ef21Cd252fDeE8bE91DA7129209322](https://goerli.etherscan.io/address/0x2fdb5f3cd7ef21cd252fdee8be91da7129209322)
 
-##MrGreedyToken contract: [0xd71e261D604D40a43cCA6597e8E3EBa25f519878](https://goerli.etherscan.io/address/0xd71e261d604d40a43cca6597e8e3eba25f519878)
+## MrGreedyToken contract: [0xd71e261D604D40a43cCA6597e8E3EBa25f519878](https://goerli.etherscan.io/address/0xd71e261d604d40a43cca6597e8e3eba25f519878)
 
 The ownership over the contracts is transferred to the [validator contract](https://goerli.etherscan.io/address/0x4b2713aae6e378156ee3449c2eae7ed5b5ea78c2)
 
-##[My successfully confrmed TX](https://goerli.etherscan.io/tx/0x54bd7d275c98d72b538870af30b8890903fe7c68f293ea31a24bacbce4b47bda)
+## [My successfully confrmed TX](https://goerli.etherscan.io/tx/0x54bd7d275c98d72b538870af30b8890903fe7c68f293ea31a24bacbce4b47bda)
 
-##[⚠️ My unsuccessful TX](https://goerli.etherscan.io/tx/0x77b03e2d45baa52fd63c82dfb30826b47b56db63151bbf7e2e26e0aa028044d3) (missed the correct names of some functions (addToWhitelist(), removeFromWhitelist()) I used different names. + there was a mistake of transferring 1 token to the treasury insted 10)
+## [⚠️ My unsuccessful TX](https://goerli.etherscan.io/tx/0x77b03e2d45baa52fd63c82dfb30826b47b56db63151bbf7e2e26e0aa028044d3) (missed the correct names of some functions (addToWhitelist(), removeFromWhitelist()) I used different names. + there was a mistake of transferring 1 token to the treasury insted 10)
 
 Libraries used: OpenZeppelin Ownable.sol & ERC20.sol
 
