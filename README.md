@@ -17,7 +17,7 @@ Instantinated with "ContractsHaterToken", "CHT"
 
 #### MrGreedyToken contract: [0xd71e261D604D40a43cCA6597e8E3EBa25f519878](https://goerli.etherscan.io/address/0xd71e261d604d40a43cca6597e8e3eba25f519878)
 
-Instantinated with "MrGreedyToken", "MRG", 0x5fd0c3c8b84e914f34231dfb1eda39ef19bbb98c (treasury). The decimals() function returns 6
+Instantinated with "MrGreedyToken", "MRG", 0x5fd0c3c8b84e914f34231dfb1eda39ef19bbb98c (treasury). The overriden decimals() function returns 6
 
 The ownership over the contracts is transferred to the [validator contract](https://goerli.etherscan.io/address/0x4b2713aae6e378156ee3449c2eae7ed5b5ea78c2)
 
